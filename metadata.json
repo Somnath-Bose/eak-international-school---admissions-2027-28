@@ -1,0 +1,6 @@
+{
+  "name": "EAK International School — Admissions 2027–28",
+  "description": "Official admissions portal for EAK International School, Academic Session 2027–28. Explore academic programs, campus facilities, fee structure, admission dates, and enquire online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
